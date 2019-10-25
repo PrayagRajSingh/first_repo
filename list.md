@@ -8,4 +8,5 @@
 ## Outdoor games
 - Football
 - Cricket
+- Baseball
 
